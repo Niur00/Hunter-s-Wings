@@ -1,0 +1,20 @@
+CREATE DATABASE HunterWings; 
+
+CREATE TABLE Usuario(
+IdUsuario INT IDENTITY(1,1) PRIMARY KEY,
+Nombre Varchar (50),
+ApellidoP Varchar,
+ApellidoM Varchar,
+CorreoElectronico Varchar (100),
+Contrasena Varchar (50));
+
+CREATE TABLE Unete(
+IdUnete INT IDENTITY (1,1) PRIMARY KEY,
+Nombre Varchar (50),
+ApellidoP Varchar (50),
+ApellidoM Varchar(50),
+CorreoElectronico Varchar (50),
+Telefono int,
+PuestoArea Varchar (255),
+AreaDesarollarte Varchar (255),
+TuVida Varchar (255));
