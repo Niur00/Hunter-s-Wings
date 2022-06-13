@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../css/estilos.ccs ">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
+    <script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <link rel="icon" href="../fotos/logo.png">
+    <link rel="stylesheet" href="../css/estilos.css">
+    <title>¿Quienes somos?</title>
+</head>
+<body style="background-color: #DAF7A6;">
+  <div class="container-fluid" >
+    <div class="row ">
+      <nav class="navbar navbar-expand-lg navbar-light bg-light me-auto mb-2 mb-lg-0">
+        <div class="container-fluid">
+          <a class="navbar-brand" href="../HunterWings.html"><img height="60px" width="150px" src="../fotos/logo1.jpg" alt="Niur Movies"></a>
+          
+          <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+              <li class="nav-item">
+                <a class="nav-link active" aria-current="page" href="../HunterWings.html">Inicio</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link active" href="../unete.html" >Únete</a>
+              </li>
+              
+              <li class="nav-item">
+                <a class="nav-link active" href="../menu.html" >Menú</a>
+              </li>
+            </ul>
+            
+          </div>
+        </div>
+      </nav>
+      
+    </div>
+    <div class="row" style="background-image: url('../fotos/about.jpg');" >
+      <div id="aboutus">
+        <center><h3>Somos un pequeño equipo de trabajo encargado de la creación de Hunters Wings</h3></center>
+       
+      </div>
+
+    </div>
+    <div class="row" id="memb" >
+      <div class="col-md-3 ">
+        <img class="rounded-circle F"height="100px" width="100px " src="/HuntersWings/fotos/J1.jpg" alt="">
+        <p class="names">
+          Jonathan Mejia Constante
+        </p>
+        <p class="info">
+         Ex estudiante de la preparatoria Universidad de Nueva Extremadura de Santa Catarina, Tecnico Superior Universitario de Tecnologías de la información, Actualemnte estudiante de la Universidad Tecnologica de Santa Catarina. 
+        </p>
+      </div>
+
+      <div class="col-md-3">
+        <img class="rounded-circle F " src="/HuntersWings/fotos/E2.jpg" alt="">
+        <p class="names">
+          Eliud Villanueva Ruiz
+        </p>
+        <p class="info">
+          Ex estudiante de la preparatoria politecnica unidad Santa Catarina Tecnico, Superior Universitario de Tecnologías de la información, Actualemnte estudiante de la Universidad Tecnologica de Santa Catarina.
+       </p>
+      </div>
+
+      <div class="col-md-3">
+        <img class="rounded-circle F" height="100px" width="100px" src="/HuntersWings/fotos/A3.jpg" alt="">
+        <p class="names">
+          Alexis Toral Luna
+        </p>
+        <p class="info">
+           Ex estudiante del Instituto Regiomontano Unidad Santa Catarina, Tecnico Superior Universitario de Tecnologías de la información, Actualemnte estudiante de la Universidad Tecnologica de Santa Catarina.
+        </p>
+      </div>
+
+        <div class="col-md-3">
+        <img class="rounded-circle F" height="100px" width="100px" src="/HuntersWings/fotos/M4.jpg" alt="">
+        <p class="names">
+          Yarely Monserrat Hernandez Ayala
+        </p>
+        <p class="info">
+           Ex estudiante del Instituto Mano amiga de Santa Catarina, Tecnico Superior Universitario de Tecnologías de la información, Actualemnte estudiante de la Universidad Tecnologica de Santa Catarina.
+
+        </p>
+      </div>
+    
+    
+</div>
+<div class="text-center p-3">
+  © 2022 Copyright:
+  <a class="text-dark" href="../HunterWings.html">Hunters Wings</a>
+  </div>
+</body>
+</html>
