@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../CSS/Esilos.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+    <script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css">
+    <link rel="icon" href="../Fotos/Icon.jpg">
+    <title>Contactanos</title>
+    <style>
+        * {
+    box-sizing: border-box;
+}
+
+body {
+    
+    color: #fff;
+    
+}
+
+
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+.logo {
+    text-align: center;
+    font-size: 3em;
+    color: #000;
+}
+
+.logo span {
+    color: #B70E21;
+}
+
+.contact-wrapper {
+    box-shadow: 0 0 20px 0 rgba(255, 255, 255, .3);
+}
+
+.contact-wrapper > * {
+    padding: 1em;
+}
+
+.contact-form {
+    background: #222222;
+}
+
+.contact-form form {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.contact-form form label {
+    display: block;
+}
+
+.contact-form form p {
+    margin: 0;
+    padding: 1em;
+}
+
+.contact-form form .block {
+    grid-column: 1 / 3;
+}
+
+.contact-form form button,
+.contact-form form input,
+.contact-form form textarea {
+    width: 100%;
+    padding: .7em;
+    border: none;
+    background: none;
+    outline: 0;
+    color: #fff;
+    border-bottom: 1px solid #d63031;
+}
+
+.contact-form form button {
+    background: #B70E21;
+    border: 0;
+    text-transform: uppercase;
+    padding: 1em;
+}
+
+.contact-form form button:hover,
+.contact-form form button:focus {
+    background: #d63031;
+    color: #fff;
+    transition: background-color 1s ease-out;
+    outline: 0;
+}
+
+
+.contact-info {
+    background: #000;
+}
+
+
+
+@media(min-width: 700px) {
+    
+    .contact-wrapper {
+        display: grid;
+        grid-template-columns: 2fr 1fr;
+    }
+    .contact-wrapper > * {
+        padding: 2em;
+    }
+    .contact-info h4,
+    .contact-info ul,
+    .contact-info p {
+        text-align: left;
+    }
+}
+    </style>
+</head>
+<body>
+    <div class="container-fluid" >
+        <div class="row ">
+          <nav class="navbar navbar-expand-lg navbar-light bg-light me-auto mb-2 mb-lg-0">
+            <div class="container-fluid">
+              <a class="navbar-brand" href="../HunterWings.html"><img height="60px" width="150px" src="../fotos/logo1.jpg" alt="Niur Movies"></a>
+              
+              <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                  <li class="nav-item">
+                    <a class="nav-link active" aria-current="page" href="../HunterWings.html">Inicio</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link active" href="Preguntas.html">Preguntas frecuentes</a>
+                  </li>
+                  
+                  <li class="nav-item">
+                    <a class="nav-link active" href="./quienessomos" >¿Quienes somos?</a>
+                  </li>
+                </ul>
+                
+              </div>
+            </div>
+          </nav>
+          
+        </div>
+        
+        <div class="content">
+
+            <h1 class="logo"><span>Contactanos</span></h1>
+    
+            <div class="contact-wrapper animated bounceInUp">
+                <div class="contact-form">
+                    <h3 style="text-align: center;">Aqui nos encontramos</h3>
+                    <iframe  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3595.365279587002!2d-100.51405064985104!3d25.692327183588127!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86629ecd749f16df%3A0x525aada7e2a78b2c!2sUniversidad%20Tecnol%C3%B3gica%20Santa%20Catarina!5e0!3m2!1ses-419!2smx!4v1616581967361!5m2!1ses-419!2smx" width="800" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+
+                </div>
+                <div class="contact-info">
+                    <h4>Mas informacion</h4>
+                    <ul>
+                        <li><i class="fas fa-map-marker-alt"></i> UTSC, Carretera Monterrey - Saltillo, Bosques de Santa Catarina, Santa Catarina, Nuevo León</li>
+                        <li><i class="fas fa-phone"></i> (81) 83-08-89-26</li>
+                        <li><i class="fas fa-envelope-open-text"></i> HuntersWings@gmail.com</li>
+                    </ul>
+                    <p>HuntersWings.com</p>
+                </div>
+            </div>
+    
+        </div>
+    
+      
+    </div>
+  <div style="color: black;" class="text-center p-3">
+    © 2022 Copyright:
+    <a class="text-dark" href="../HunterWings.html">HuntersWings.com<</a>
+  </div>
+
+  <script src="/Script/Script.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-ygbV9kiqUc6oa4msXn9868pTtWMgiQaeYH7/t7LECLbyPA2x65Kgf80OJFdroafW" crossorigin="anonymous"></script>
+</body>
+</html>
