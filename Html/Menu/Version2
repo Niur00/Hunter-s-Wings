@@ -1,0 +1,245 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+    <script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css">
+    <link href="../assets/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
+    <link rel="canonical" href="https://getbootstrap.com/docs/5.0/examples/album/">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+    <script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <link rel="icon" href="/HuntersWings/fotos/logo.png">
+    <title>Hunters Wings</title>
+    <link rel="stylesheet" href="./css/index.css">
+</head>
+<body>
+    <div class="container-fluid" >
+        <div class="row ">
+          <nav class="navbar navbar-expand-md bg-dark navbar-dark">
+            <div class="container-fluid">
+              <a class="navbar-brand" href="./HunterWings.html"><img height="60px" width="150px" src="./fotos/logo1.jpg" alt="Niur Movies"></a>
+              
+              <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                  <li class="nav-item">
+                    <a class="nav-link active" aria-current="page" href="HunterWings.html">Inicio</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link active" href="unete.html" >Únete</a>
+                  </li>
+                  
+                  <li class="nav-item">
+                    <a class="nav-link active" href="menu.html" >Menú</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link active" href="/HuntersWings/pie/quienessomos.html" >¿Quienes Somos?</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link active" href="/HuntersWings/pie/Contacto.html" >Contactanos</a>
+                  </li>
+                </ul>
+                
+              </div>
+            </div>
+          </nav>
+
+          <div class="title text-center py-3">
+            <h1>Menú    </h1>
+          </div>
+
+    <div class="row mx-5">
+          <!-- Tarjeta 1 -->
+
+    <div class="col ml-5">
+
+        <div class="card" style="width: 18rem;">
+          <img src="/HuntersWings/fotos/f1.jpg" class="card-img-top" alt="">
+          <div>
+           <h2>El Mix</h2>
+           <p>
+             Platillo variado con boneles, media orden de papas, aros de cebolla, cheesballs, verdura y sus respectivos aderezos.
+           </p>
+           <a href="" class="btn btn-secondary">Precio</a>
+          </div>
+        </div>
+      </div>
+  
+      <!-- Tarjeta 2 -->
+  
+      <div class="col">
+  
+        <div class="card" style="width: 18rem;">
+          <img src="/HuntersWings/fotos/f2.jpg " class="card-img-top" alt="">
+          <div>
+           <h2>Barbequer</h2>
+           <p>
+             hamburgesa de Barbequer con aros de cebolla, con espinaca, aderezo de la casa, tomate, tocino, queso mix y pan sin gluden.
+           </p>
+           <a href="" class="btn btn-secondary">Precio</a>
+          </div>
+        </div>
+      </div>
+  
+      <!-- Tarjeta 3 -->
+  
+      <div class="col">
+  
+        <div class="card" style="width: 18rem;">
+          <img src="/HuntersWings/fotos/f3.jpg  " class="card-img-top" alt="">
+          <div>
+           <h2>Hamburguesa Veggi</h2>
+           <p>
+             Hamburguesa vegetariana, con portobello empanizado, con espinaca, tomate, y verdura quisada con mantequilla.
+           </p>
+           <a href="" class="btn btn-secondary">Precio</a>
+          </div>
+        </div>
+      </div>
+  
+      <!-- Tarjeta 4 -->
+  
+      <div class="col ml-5">
+  
+        <div class="card" style="width: 18rem;">
+          <img src="/HuntersWings/fotos/f4.jpg" class="card-img-top" alt="">
+          <div>
+           <h2>Picosito</h2>
+           <p>
+             Pelicula 28 días después
+           </p>
+           <a href="" class="btn btn-secondary">Precio</a>
+          </div>
+        </div>
+      </div>
+  
+      <!-- Tarjeta 5 -->
+  
+      <div class="col ml-5">
+  
+        <div class="card" style="width: 18rem;">
+          <img src="/HuntersWings/fotos/f5.jpg" class="card-img-top" alt="Rec">
+          <div>
+           <h2>Boneles</h2>
+           <p>
+             Pelicula Rec 2
+           </p>
+           <a href="" class="btn btn-secondary">Precio</a>
+          </div>
+        </div>
+      </div>
+
+      <!-- Tarjeta 6 -->
+  
+      <div class="col ml-5">
+  
+        <div class="card" style="width: 18rem;">
+          <img src="/HuntersWings/fotos/f5.jpg" class="card-img-top" alt="Rec">
+          <div>
+           <h2>Aros de Cebolla</h2>
+           <p>
+             Aros de cebolla empanizados con receta de la casa con su respectiva Barbequer.
+           </p>
+           <a href="" class="btn btn-secondary">Precio</a>
+          </div>
+        </div>
+      </div>
+
+      <!-- Tarjeta 7-->
+  
+      <div class="col ml-5">
+  
+        <div class="card" style="width: 18rem;">
+          <img src="/HuntersWings/fotos/f7.jpg" class="card-img-top" alt="Rec">
+          <div>
+           <h2>Dedos de Queso</h2>
+           <p>
+             Deliciosos dedos de queso acompañados de salsa marinada.
+           </p>
+           <a href="" class="btn btn-secondary">Precio</a>
+          </div>
+        </div>
+      </div>
+    </div>
+    </div>
+
+    <footer class="text-muted py-5">
+        <div class="container">
+          <p class="float-end mb-1">
+            <a href="#" class="btn btn-secondary">Volver Arriba</a>
+          </p>
+        </div>
+      </footer>
+      
+          <footer class="bg-light text-center text-lg-start">
+    
+            <div class="container p-4">
+                <div class="row">
+                    <div class="col-lg-6 col-md-12 mb-4 mb-md-0">
+                        <h6 class="">¿Tienes alguna duda? - Llama al 818-308-8926</h6>
+        
+                        <p>
+                            <b>Acerca de nosotros</b><br>
+                            Somos una página web del restaurante Hunter Wings, con el fin de 
+                        </p>
+                    </div>
+                    <br><br>
+                
+                    <div class="col-lg-2 col-md-6 mb-4 mb-md-0">
+                            
+                    
+                        <ul class="list-unstyled mb-0">
+                            <li>
+                                <a href="https://www.youtube.com/" class="text-dark">Youtube</a>
+                            </li>
+                            <li>
+                                <a href="https://www.facebook.com/Hunters-Wings-102967648878252" class="text-dark">Facebook</a>
+                            </li>
+                            <li>
+                                <a href="https://www.instagram.com/?hl=es" class="text-dark">Instagram</a>
+                            </li>
+                            <li>
+                                <a href="https://mobile.twitter.com/login" class="text-dark">Twitter</a>
+                            </li>
+                        </ul>
+                    </div>
+                    
+                    <div class="col-lg-2 col-md-6 mb-4 mb-md-0">
+                        
+                
+                        <ul class="list-unstyled">
+                           
+                            <li>
+                                <a href="/HuntersWings/pie/quienessomos.html" class="text-dark">¿Quiénes somos?</a>
+                            </li>
+                            <li>
+                                <a href="/HuntersWings/pie/preguntas" class="text-dark">Preguntas y Dudas</a>
+                            </li>
+                            <li>
+                                <a href="/HuntersWings/pie/Contacto.html" class="text-dark">Contactanos</a>
+                            </li>
+                        </ul>
+                    </div>
+                        
+                    </div>
+                </div>
+                
+                <div class="text-center p-3">
+                © 2022 Copyright:
+                <a class="text-dark" href="">Hunters Wings</a>
+                </div>
+            </footer>
+<script src="Script/Script.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-ygbV9kiqUc6oa4msXn9868pTtWMgiQaeYH7/t7LECLbyPA2x65Kgf80OJFdroafW" crossorigin="anonymous"></script>
+
+</body>
+</html>
