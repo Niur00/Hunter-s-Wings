@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+    <script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css">
+    <link href="../assets/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
+    <link rel="canonical" href="https://getbootstrap.com/docs/5.0/examples/album/">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+    <link href="https://fonts.googleapis.com/css?family=Dancing+Script|Raleway:500,600&display=swap" rel="stylesheet">
+    <link rel="icon" href="/HuntersWings/fotos/logo.png">
+    <title>Hunters Wings</title>
+    <link rel="stylesheet" href="./css/index.css">
+</head>
+<body>
+    <div class="container-fluid" >
+        <div class="row ">
+          <nav class="navbar navbar-expand-md bg-dark navbar-dark">
+            <div class="container-fluid">
+              <a class="navbar-brand" href="./HunterWings.html"><img height="60px" width="150px" src="./fotos/logo1.jpg" alt="Hunters Wings"></a>
+              
+              <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                  <li class="nav-item">
+                    <a class="nav-link active" aria-current="page" href="HunterWings.html">Inicio</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link active" href="unete.html" >Únete</a>
+                  </li>
+                  
+                  <li class="nav-item">
+                    <a class="nav-link active" href="menu.html" >Menú</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link active" href="/HuntersWings/pie/quienessomos.html" >¿Quienes Somos?</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link active" href="/HuntersWings/pie/Contacto.html" >Contactanos</a>
+                  </li>
+                </ul>
+                
+              </div>
+            </div>
+          </nav>
+          
+        </div>  
+    </div>
+    <br>
+      
+    
+    <div > 
+        <img style="float: right"  src="/HuntersWings/fotos/logo.png">  
+    
+    
+
+    <div class="row " id="FAQ">
+        <div class="col-md-8" style="padding-left: 4%;padding-right: 3%;" >
+          <h4 >POLÍTICA DE PRIVACIDAD</h4>
+          <p style="padding-bottom: 5%;">  
+            El presente Política de Privacidad establece los términos en que Hunter wings usa y protege la información que es proporcionada por sus usuarios al momento de utilizar su sitio web. Esta compañía está comprometida con la seguridad de los datos de sus usuarios. Cuando le pedimos llenar los campos de información personal con la cual usted pueda ser identificado, lo hacemos asegurando que sólo se empleará de acuerdo con los términos de este documento. Sin embargo esta Política de Privacidad puede cambiar con el tiempo o ser actualizada por lo que le recomendamos y enfatizamos revisar continuamente esta página para asegurarse que está de acuerdo con dichos cambios.
+          </p>
+          <h4 class="Quest"  >Información que es recogida</h4>
+          <p style="padding-bottom: 5%;">  
+            Nuestro sitio web podrá recoger información personal por ejemplo: Nombre,  información de contacto como  su dirección de correo electrónica e información demográfica. Así mismo cuando sea necesario podrá ser requerida información específica para procesar algún pedido o realizar una entrega o facturación.
+          </p>
+          <h4 class="Quest" >Uso de la información recogida</h4>
+          <p style="padding-bottom: 5%;"> 
+            Nuestro sitio web emplea la información con el fin de proporcionar el mejor servicio posible, particularmente para mantener un registro de usuarios, de pedidos en caso que aplique, y mejorar nuestros productos y servicios.  Es posible que sean enviados correos electrónicos periódicamente a través de nuestro sitio con ofertas especiales, nuevos productos y otra información publicitaria que consideremos relevante para usted o que pueda brindarle algún beneficio, estos correos electrónicos serán enviados a la dirección que usted proporcione y podrán ser cancelados en cualquier momento.
+
+            Hunter wings está altamente comprometido para cumplir con el compromiso de mantener su información segura. Usamos los sistemas más avanzados y los actualizamos constantemente para asegurarnos que no exista ningún acceso no autorizado.
+          </p>
+          <h4 class="Quest" > Cookies</h4>
+          <p style="padding-bottom: 5%;">
+            Una cookie se refiere a un fichero que es enviado con la finalidad de solicitar permiso para almacenarse en su ordenador, al aceptar dicho fichero se crea y la cookie sirve entonces para tener información respecto al tráfico web, y también facilita las futuras visitas a una web recurrente. Otra función que tienen las cookies es que con ellas las web pueden reconocerte individualmente y por tanto brindarte el mejor servicio personalizado de su web.
+
+            Nuestro sitio web emplea las cookies para poder identificar las páginas que son visitadas y su frecuencia. Esta información es empleada únicamente para análisis estadístico y después la información se elimina de forma permanente. Usted puede eliminar las cookies en cualquier momento desde su ordenador. Sin embargo las cookies ayudan a proporcionar un mejor servicio de los sitios web, estás no dan acceso a información de su ordenador ni de usted, a menos de que usted así lo quiera y la proporcione directamente noticias. Usted puede aceptar o negar el uso de cookies, sin embargo la mayoría de navegadores aceptan cookies automáticamente pues sirve para tener un mejor servicio web. También usted puede cambiar la configuración de su ordenador para declinar las cookies. Si se declinan es posible que no pueda utilizar algunos de nuestros servicios
+          </p>
+        </p>
+        <h4 class="Quest" > Enlaces a Terceros</h4>
+        <p style="padding-bottom: 5%;">
+            Este sitio web pudiera contener en laces a otros sitios que pudieran ser de su interés. Una vez que usted de clic en estos enlaces y abandone nuestra página, ya no tenemos control sobre al sitio al que es redirigido y por lo tanto no somos responsables de los términos o privacidad ni de la protección de sus datos en esos otros sitios terceros. Dichos sitios están sujetos a sus propias políticas de privacidad por lo cual es recomendable que los consulte para confirmar que usted está de acuerdo con estas.
+        </p>
+
+        <h4 class="Quest" > Control de su información personal</h4>
+        <p style="padding-bottom: 5%;">
+            En cualquier momento usted puede restringir la recopilación o el uso de la información personal que es proporcionada a nuestro sitio web.  Cada vez que se le solicite rellenar un formulario, como el de alta de usuario, puede marcar o desmarcar la opción de recibir información por correo electrónico.  En caso de que haya marcado la opción de recibir nuestro boletín o publicidad usted puede cancelarla en cualquier momento.
+
+            Esta compañía no venderá, cederá ni distribuirá la información personal que es recopilada sin su consentimiento, salvo que sea requerido por un juez con un orden judicial.
+
+            Hunter wings Se reserva el derecho de cambiar los términos de la presente Política de Privacidad en cualquier momento.
+        </p>
+        
+        </div>
+        </div>
+        <footer class="bg-light text-center text-lg-start">
+    
+            <div class="container p-4">
+                <div class="row">
+                    <div class="col-lg-6 col-md-12 mb-4 mb-md-0">
+                        <h6 class="">¿Tienes alguna duda? - Llama al 818-308-8926</h6>
+        
+                        <p>
+                            <b>Acerca de nosotros</b><br>
+                            Somos una página web del restaurante Hunter Wings, con el fin de 
+                        </p>
+                    </div>
+                    <br><br>
+                
+                    <div class="col-lg-2 col-md-6 mb-4 mb-md-0">
+                            
+                    
+                        <ul class="list-unstyled mb-0">
+                            <li>
+                                <a href="https://www.youtube.com/" class="text-dark">Youtube</a>
+                            </li>
+                            <li>
+                                <a href="https://www.facebook.com/Hunters-Wings-102967648878252" class="text-dark">Facebook</a>
+                            </li>
+                            <li>
+                                <a href="https://www.instagram.com/?hl=es" class="text-dark">Instagram</a>
+                            </li>
+                            <li>
+                                <a href="https://mobile.twitter.com/login" class="text-dark">Twitter</a>
+                            </li>
+                        </ul>
+                    </div>
+                     <br>
+                    <div class="col-lg-2 col-md-6 mb-4 mb-md-0">
+                        
+                
+                        <ul class="list-unstyled">
+                           
+                            <li>
+                                <a href="/HuntersWings/pie/quienessomos.html" class="text-dark">¿Quiénes somos?</a>
+                            </li>
+                            <li>
+                                <a href="/HuntersWings/preguntas.html" class="text-dark">Politicas de privacidad</a>
+                            </li>
+                            <li>
+                                <a href="/HuntersWings/pie/Contacto.html" class="text-dark">Contactanos</a>
+                            </li>
+                        </ul>
+                    </div>
+                        
+                    </div>
+                </div>
+                
+                <div class="text-center p-3">
+                © 2022 Copyright:
+                <a class="text-dark" href="">Hunters Wings</a>
+                </div>
+            </footer>
+</body>
+</html>
